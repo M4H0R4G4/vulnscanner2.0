@@ -1,4 +1,4 @@
-# 🔍 VulnScanner
+# 🔍 VulnScanner 2.0
 
 > **Vulnerability scanner** that identifies open ports, service versions, CPEs, NSE script output, and known CVEs — with a built-in visual web interface and professional HTML/PDF reports.
 
